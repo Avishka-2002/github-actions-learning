@@ -1,10 +1,10 @@
-# Beginner Tasks Submission - YourName
+# Beginner Badge Submission - Avishka
 
-## Task 1: Hello World Workflow
-✅ Screenshot of successful run
+## Task 1: Manual Workflow Run
+![Task 1 Screenshot](Task1.png)
 
-## Task 2: Workflow triggered by push
-✅ Screenshot of successful run
+## Task 2: Workflow Triggered by Push
+![Task 2 Screenshot](Task2.png)
 
-## Task 3: Local tests passing
-✅ Screenshot of terminal output
+## Task 3: Local Tests Passing
+![Task 3 Screenshot](Task3.png)
